@@ -55,6 +55,7 @@ alias find='fd'
 alias du='dust'
 alias c='clear'
 alias y='yazi'
+alias hub='~/claude-hub/start-hub.sh'
 
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
