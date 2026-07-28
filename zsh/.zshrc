@@ -71,3 +71,6 @@ export VISUAL="nvim"
 bindkey "^[[3~" delete-char
 
 export PATH="$HOME/.local/bin:$PATH"
+
+export PATH=$PATH:/home/rus/.spicetify
+export PATH=$PATH:~/.spicetify
