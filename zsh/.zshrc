@@ -68,5 +68,6 @@ function y() {
 export EDITOR="nvim"
 export VISUAL="nvim"
 
-
 bindkey "^[[3~" delete-char
+
+export PATH="$HOME/.local/bin:$PATH"
